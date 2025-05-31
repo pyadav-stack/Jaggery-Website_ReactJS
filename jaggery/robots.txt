@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://paras-b4.github.io/jaggery/sitemap.xml 
