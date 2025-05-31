@@ -95,15 +95,18 @@ ul {
   width: 100%;
 }
 .kusum-tag {
-  position: absolute;
-  bottom: 20px;
-  right: 30px;
+  /* position: absolute; */
+  top: 50px;
+  display: flex;
+  justify-content: center;
+  /* bottom: 20px;
+  right: 30px; */
   font-weight: bold;
   color: white;
   background: rgba(0, 0, 0, 0.5); /* optional for better visibility */
   padding: 5px 10px;
   border-radius: 5px;
-  font-size: 1rem;
+  font-size: 6rem;
 }
 .hero {
   position: relative; /* required for absolute child positioning */
